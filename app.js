@@ -1,1 +1,1 @@
-console.log('GitHub')
+console.log('GitHub');
